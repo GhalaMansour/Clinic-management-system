@@ -1,0 +1,4 @@
+Patient Name: Ali mohammad
+Appointment Date:  2023-5-27
+Doctor Name: Dr.Ahmad
+Notes: Patient has a history of high blood pressure.
